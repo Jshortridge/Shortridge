@@ -1,6 +1,6 @@
 # Media Utilities Webservice
 
-A RESTful webservice for parsing media titles with validation. This service exposes an API endpoint that accepts media title strings and returns structured information.
+A RESTful webservice for parsing media titles with validation. This service exposes an API endpoint that accepts media title strings and returns structured information....
 
 ## Features
 
